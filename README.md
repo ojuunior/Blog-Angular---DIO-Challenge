@@ -5,5 +5,5 @@ O projeto de blog em Angular é uma aplicação web simples desenvolvida com o o
 
 O projeto foi um desafio proposto pela plataforma Digital Innovation One - Bootcamp Potência Tech Angular Developer - Powered by iFood.
 
-Repositório: 
-Projeto: 
+Repositório: https://github.com/ojuunior/Blog-Angular---DIO-Challenge
+Projeto: https://blog-angular-dio-challenge.vercel.app/
